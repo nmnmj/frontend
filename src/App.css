@@ -1,0 +1,9 @@
+.background-image-container {
+    flex-grow: 1;
+    height: 90vh;
+    width: 100vw;
+  }
+
+  .pointer{
+    cursor: pointer;
+  }
